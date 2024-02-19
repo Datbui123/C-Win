@@ -1,0 +1,10 @@
+C:\Datbui\SchoolWork\Window\first\bin\Debug\first.exe.config
+C:\Datbui\SchoolWork\Window\first\bin\Debug\first.exe
+C:\Datbui\SchoolWork\Window\first\bin\Debug\first.pdb
+C:\Datbui\SchoolWork\Window\first\obj\Debug\first.csproj.AssemblyReference.cache
+C:\Datbui\SchoolWork\Window\first\obj\Debug\first.Form1.resources
+C:\Datbui\SchoolWork\Window\first\obj\Debug\first.Properties.Resources.resources
+C:\Datbui\SchoolWork\Window\first\obj\Debug\first.csproj.GenerateResource.cache
+C:\Datbui\SchoolWork\Window\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+C:\Datbui\SchoolWork\Window\first\obj\Debug\first.exe
+C:\Datbui\SchoolWork\Window\first\obj\Debug\first.pdb

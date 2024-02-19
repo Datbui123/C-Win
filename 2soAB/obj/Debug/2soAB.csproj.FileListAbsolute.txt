@@ -1,0 +1,10 @@
+C:\Datbui\SchoolWork\Window\2soAB\bin\Debug\2soAB.exe.config
+C:\Datbui\SchoolWork\Window\2soAB\bin\Debug\2soAB.exe
+C:\Datbui\SchoolWork\Window\2soAB\bin\Debug\2soAB.pdb
+C:\Datbui\SchoolWork\Window\2soAB\obj\Debug\2soAB.csproj.AssemblyReference.cache
+C:\Datbui\SchoolWork\Window\2soAB\obj\Debug\_2soAB.Form1.resources
+C:\Datbui\SchoolWork\Window\2soAB\obj\Debug\_2soAB.Properties.Resources.resources
+C:\Datbui\SchoolWork\Window\2soAB\obj\Debug\2soAB.csproj.GenerateResource.cache
+C:\Datbui\SchoolWork\Window\2soAB\obj\Debug\2soAB.csproj.CoreCompileInputs.cache
+C:\Datbui\SchoolWork\Window\2soAB\obj\Debug\2soAB.exe
+C:\Datbui\SchoolWork\Window\2soAB\obj\Debug\2soAB.pdb
