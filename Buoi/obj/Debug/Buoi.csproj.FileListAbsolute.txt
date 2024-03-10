@@ -1,0 +1,10 @@
+D:\DatBui\SchoolWork\Window\Cs-Win\Buoi\bin\Debug\Buoi.exe.config
+D:\DatBui\SchoolWork\Window\Cs-Win\Buoi\bin\Debug\Buoi.exe
+D:\DatBui\SchoolWork\Window\Cs-Win\Buoi\bin\Debug\Buoi.pdb
+D:\DatBui\SchoolWork\Window\Cs-Win\Buoi\obj\Debug\Buoi.csproj.AssemblyReference.cache
+D:\DatBui\SchoolWork\Window\Cs-Win\Buoi\obj\Debug\Buoi.Form1.resources
+D:\DatBui\SchoolWork\Window\Cs-Win\Buoi\obj\Debug\Buoi.Properties.Resources.resources
+D:\DatBui\SchoolWork\Window\Cs-Win\Buoi\obj\Debug\Buoi.csproj.GenerateResource.cache
+D:\DatBui\SchoolWork\Window\Cs-Win\Buoi\obj\Debug\Buoi.csproj.CoreCompileInputs.cache
+D:\DatBui\SchoolWork\Window\Cs-Win\Buoi\obj\Debug\Buoi.exe
+D:\DatBui\SchoolWork\Window\Cs-Win\Buoi\obj\Debug\Buoi.pdb

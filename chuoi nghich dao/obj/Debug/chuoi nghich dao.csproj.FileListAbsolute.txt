@@ -1,0 +1,10 @@
+C:\Datbui\SchoolWork\Window\Cs-Win\chuoi nghich dao\bin\Debug\chuoi nghich dao.exe.config
+C:\Datbui\SchoolWork\Window\Cs-Win\chuoi nghich dao\bin\Debug\chuoi nghich dao.exe
+C:\Datbui\SchoolWork\Window\Cs-Win\chuoi nghich dao\bin\Debug\chuoi nghich dao.pdb
+C:\Datbui\SchoolWork\Window\Cs-Win\chuoi nghich dao\obj\Debug\chuoi nghich dao.csproj.AssemblyReference.cache
+C:\Datbui\SchoolWork\Window\Cs-Win\chuoi nghich dao\obj\Debug\chuoi_nghich_dao.Form1.resources
+C:\Datbui\SchoolWork\Window\Cs-Win\chuoi nghich dao\obj\Debug\chuoi_nghich_dao.Properties.Resources.resources
+C:\Datbui\SchoolWork\Window\Cs-Win\chuoi nghich dao\obj\Debug\chuoi nghich dao.csproj.GenerateResource.cache
+C:\Datbui\SchoolWork\Window\Cs-Win\chuoi nghich dao\obj\Debug\chuoi nghich dao.csproj.CoreCompileInputs.cache
+C:\Datbui\SchoolWork\Window\Cs-Win\chuoi nghich dao\obj\Debug\chuoi nghich dao.exe
+C:\Datbui\SchoolWork\Window\Cs-Win\chuoi nghich dao\obj\Debug\chuoi nghich dao.pdb

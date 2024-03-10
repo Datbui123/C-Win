@@ -1,0 +1,10 @@
+C:\Datbui\SchoolWork\Window\Cs-Win\LoginSV\bin\Debug\LoginSV.exe.config
+C:\Datbui\SchoolWork\Window\Cs-Win\LoginSV\bin\Debug\LoginSV.exe
+C:\Datbui\SchoolWork\Window\Cs-Win\LoginSV\bin\Debug\LoginSV.pdb
+C:\Datbui\SchoolWork\Window\Cs-Win\LoginSV\obj\Debug\LoginSV.csproj.AssemblyReference.cache
+C:\Datbui\SchoolWork\Window\Cs-Win\LoginSV\obj\Debug\LoginSV.Form1.resources
+C:\Datbui\SchoolWork\Window\Cs-Win\LoginSV\obj\Debug\LoginSV.Properties.Resources.resources
+C:\Datbui\SchoolWork\Window\Cs-Win\LoginSV\obj\Debug\LoginSV.csproj.GenerateResource.cache
+C:\Datbui\SchoolWork\Window\Cs-Win\LoginSV\obj\Debug\LoginSV.csproj.CoreCompileInputs.cache
+C:\Datbui\SchoolWork\Window\Cs-Win\LoginSV\obj\Debug\LoginSV.exe
+C:\Datbui\SchoolWork\Window\Cs-Win\LoginSV\obj\Debug\LoginSV.pdb

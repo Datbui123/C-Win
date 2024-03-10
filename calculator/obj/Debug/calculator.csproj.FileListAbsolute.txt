@@ -1,0 +1,11 @@
+C:\Datbui\SchoolWork\Window\Cs-Win\calculator\bin\Debug\calculator.exe.config
+C:\Datbui\SchoolWork\Window\Cs-Win\calculator\bin\Debug\calculator.exe
+C:\Datbui\SchoolWork\Window\Cs-Win\calculator\bin\Debug\calculator.pdb
+C:\Datbui\SchoolWork\Window\Cs-Win\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Datbui\SchoolWork\Window\Cs-Win\calculator\obj\Debug\calculator.Form1.resources
+C:\Datbui\SchoolWork\Window\Cs-Win\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Datbui\SchoolWork\Window\Cs-Win\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Datbui\SchoolWork\Window\Cs-Win\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Datbui\SchoolWork\Window\Cs-Win\calculator\obj\Debug\calculator.exe
+C:\Datbui\SchoolWork\Window\Cs-Win\calculator\obj\Debug\calculator.pdb
+C:\Datbui\SchoolWork\Window\Cs-Win\calculator\obj\Debug\calculator.Form2.resources
