@@ -91,7 +91,20 @@ namespace Buoi
 
         private void dataGridView2_CellClick(object sender, DataGridViewCellEventArgs e)
         {
+            string sql1 = "Select * from MuonSach";
+            SqlDataAdapter daMuonSach = new SqlDataAdapter(sql1, conn);
+            DataTable dtMuonSach = new DataTable();
+            daMuonSach.Fill(dtMuonSach);
+            dataGridView2.DataSource = dtMuonSach;
 
+            int row = e.RowIndex;
+            if (row >= 0)
+            {
+                comboBox1.Text = dataGridView2.Rows[row].Cells[1].Value.ToString();
+                comboBox2.Text = dataGridView2.Rows[row].Cells[2].Value.ToString();
+                comboBox3.Text = dataGridView2.Rows[row].Cells[3].Value.ToString();
+                comboBox4.Text = dataGridView2.Rows[row].Cells[4].Value.ToString();
+            }
         }
     }
 }
